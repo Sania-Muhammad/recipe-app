@@ -2,4 +2,3 @@ A practical application of can be seen in various cuisines. For instance, the co
 
 This app  can help cooks experiment with new recipes by suggesting ingredient combinations that might not be immediately obvious but could lead to delicious results. By understanding the underlying chemistry of flavors, anyone can elevate their cooking and create unique dishes. 
 
-If you're interested in trying out some flavor pairings, let me know, and I can suggest some combinations!
